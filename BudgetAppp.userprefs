@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="BudgetAppp/BudgetAppp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetAppp/Budget.cs">
+    <Files>
+      <File FileName="BudgetAppp/Program.cs" Line="4" Column="4" />
+      <File FileName="BudgetAppp/Budget.cs" Line="1" Column="1" />
+      <File FileName="BudgetAppp/Expense.cs" Line="4" Column="4" />
+      <File FileName="BudgetAppp/Salary.cs" Line="3" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
